@@ -1,8 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <DebugType>portable</DebugType>
+    <AssemblyVersion>10.7.5.5</AssemblyVersion>
+    <FileVersion>10.7.5.5</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,7 +22,7 @@
     <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0">
       <IncludeAssets>compile</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="System.Text.Json" Version="5.*">
+    <PackageReference Include="System.Text.Json" Version="6.*">
       <IncludeAssets>compile</IncludeAssets>
     </PackageReference>
   </ItemGroup>
