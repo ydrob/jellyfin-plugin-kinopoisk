@@ -9,6 +9,14 @@
         "imageUrl": "https://kinopoisk.userecho.com/s/attachments/28876/0/1/25f8c0315e6ccb2aa6c2642e48f2c9e9.png",
         "versions": [
             {
+                "version": "10.7.5.6",
+                "changelog": "Movie year support\n",
+                "targetAbi": "10.7.0",
+                "sourceUrl": "https://raw.githubusercontent.com/VD42/jellyfin-plugin-kinopoisk/master/dist/kinopoisk/kinopoisk_10.7.5.6.zip",
+                "checksum": "23527c552c8e224a3a6b77329e011d14",
+                "timestamp": "2024-01-07T08:48:00Z"
+            },
+            {
                 "version": "10.7.5.5",
                 "changelog": "YANDEX_DISK error fix\n",
                 "targetAbi": "10.7.0",

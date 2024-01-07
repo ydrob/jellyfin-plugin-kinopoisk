@@ -99,6 +99,8 @@ namespace Jellyfin.Plugin.Kinopoisk
             dst.Name = src.GetLocalName();
             dst.OriginalTitle = src.GetOriginalNameIfNotSame();
             dst.PremiereDate = src.GetPremiereDate();
+            if (1900 < src.Year)
+                dst.ProductionYear = src.Year;
             if (!string.IsNullOrWhiteSpace(src.Slogan))
                 dst.Tagline = src.Slogan;
             dst.Overview = src.Description;
