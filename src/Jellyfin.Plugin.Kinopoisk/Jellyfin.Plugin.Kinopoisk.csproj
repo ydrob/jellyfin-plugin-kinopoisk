@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <DebugType>portable</DebugType>
-    <AssemblyVersion>10.7.5.6</AssemblyVersion>
-    <FileVersion>10.7.5.6</FileVersion>
+    <AssemblyVersion>10.7.5.7</AssemblyVersion>
+    <FileVersion>10.7.5.7</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

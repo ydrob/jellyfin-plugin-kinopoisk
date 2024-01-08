@@ -9,6 +9,14 @@
         "imageUrl": "https://kinopoisk.userecho.com/s/attachments/28876/0/1/25f8c0315e6ccb2aa6c2642e48f2c9e9.png",
         "versions": [
             {
+                "version": "10.7.5.7",
+                "changelog": "Return first result in lookup if all other checks failed\n",
+                "targetAbi": "10.7.0",
+                "sourceUrl": "https://raw.githubusercontent.com/VD42/jellyfin-plugin-kinopoisk/master/dist/kinopoisk/kinopoisk_10.7.5.7.zip",
+                "checksum": "6e2f07e97ed8dbbd3c3bc92ccbf97aa1",
+                "timestamp": "2024-01-08T07:12:00Z"
+            },
+            {
                 "version": "10.7.5.6",
                 "changelog": "Movie year support\n",
                 "targetAbi": "10.7.0",
