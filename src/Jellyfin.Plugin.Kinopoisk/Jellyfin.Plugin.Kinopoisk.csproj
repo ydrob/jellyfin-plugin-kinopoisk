@@ -1,8 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <DebugType>portable</DebugType>
+    <AssemblyVersion>10.9.0.2</AssemblyVersion>
+    <FileVersion>10.9.0.2</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
