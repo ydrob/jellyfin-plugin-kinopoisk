@@ -9,9 +9,9 @@
         "imageUrl": "https://kinopoisk.userecho.com/s/attachments/28876/0/1/25f8c0315e6ccb2aa6c2642e48f2c9e9.png",
         "versions": [
             {
-                "version": "10.10.0.0",
-                "changelog": "Base sync (10.10.0 support)\n",
-                "targetAbi": "10.10.0",
+                "version": "10.10.7.0",
+                "changelog": "Base sync (10.10.7 support)\n",
+                "targetAbi": "10.10.7",
                 "sourceUrl": "https://raw.githubusercontent.com/VD42/jellyfin-plugin-kinopoisk/master/dist/kinopoisk/kinopoisk_10.9.0.2.zip",
                 "checksum": "214e855f28c8d45203cc2d7f0c1a0cf2",
                 "timestamp": "2024-05-21T05:34:00Z"
