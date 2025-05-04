@@ -13,7 +13,7 @@
                 "changelog": "Base sync (10.10.7 support)\n",
                 "targetAbi": "10.10.7",
                 "sourceUrl": "https://raw.githubusercontent.com/ydrob/jellyfin-plugin-kinopoisk/master/dist/kinopoisk/kinopoisk_10.10.7.0.zip",
-                "checksum": "214e855f28c8d45203cc2d7f0c1a0cf2",
+                "checksum": "439FB168C8E6E2496C6F191D6A71A837",
                 "timestamp": "2025-05-04T09:34:00Z"
             }
         ]
